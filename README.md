@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **JavaScript Projects**
+- 🔭 I’m currently working on **Front-End Web Development projects**
 - 🌱 I’m currently learning **Computing and software engineering**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
