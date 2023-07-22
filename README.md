@@ -25,4 +25,8 @@
 
  <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishaka-randunuge&show_icons=true&locale=en" alt="vishaka-randunuge" /></p>
 <p>
+
+ <p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaka-randunuge&layout=compact" alt="vishaka-randunuge" />
+</p> 
 </p>
