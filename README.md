@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **Front-End Web Development projects**
+- :art: I’m passionate working on **Front-End Web Development projects**
+- 🔭 I’m currently working on **Backend Development projects**
 - 🌱 I’m currently learning **Computing and software engineering**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
