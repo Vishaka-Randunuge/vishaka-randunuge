@@ -48,7 +48,7 @@
 ### 📫 Let's Connect!
 
 - 🌐 [Portfolio](https://Vishaka-Randunuge.github.io)
-- 💼 [LinkedIn](https://www.linkedin.com/in/vishaka-randunuge/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/vishaka-randunuge-43ba20230/)
 - 🐙 [GitHub](https://github.com/Vishaka-Randunuge)
 
 ---
