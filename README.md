@@ -6,7 +6,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 First-class graduate in Computer Science  
+- 🎓 Second-class(Upper) graduate in Computer Science  
 - 🧠 I love building **modern web** & **mobile apps** that solve real-world problems  
 - 💬 Ask me about **React, Tailwind, Laravel, Node.js, Golang, Firebase**  
 - ✨ Currently exploring **Next.js** and **Microservices Architecture**  
